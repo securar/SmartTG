@@ -2,7 +2,7 @@ import sys
 
 from loguru import logger
 
-from smart_tg.core.logger._config import DEFAULT_FORMAT
+from ._config import DEFAULT_FORMAT
 
 
 def create_logger(name: str):
