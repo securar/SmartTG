@@ -1,3 +1,4 @@
-from smart_tg.core.logger import create_logger
+from .logger import create_logger
 
 core_logger = create_logger("core")
+event_logger = create_logger("event")

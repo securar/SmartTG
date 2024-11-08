@@ -1,2 +1,0 @@
-class SmartControllerError(BaseException):
-    pass
