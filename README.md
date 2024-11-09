@@ -1,3 +1,6 @@
 *Keep it simple, stupid*
 # SmartTG
-## Simple library for creating your own userbots like GeekTG/Friendly-Telegram, but without without a poker up your ass.
+### **SmartTG** is a modern and fully asynchronous library for creating userbots, built on top of [telethon](https://github.com/LonamiWebs/Telethon)
+### Make your userbots fast, simple and handy!
+
+## Documentation: [Click here](https://github.com/securar/SmartTG/blob/master/docs/docs.md)
