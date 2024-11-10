@@ -1,1 +1,3 @@
 BAD_PREFIXES = ["/", "."]
+MODULE_SHOULD_ENDS_WITH = "er"
+CORE_HANDLER_REGEX_PATTERN = r"^{prefix}.[ ]*.*$"

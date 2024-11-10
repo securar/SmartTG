@@ -4,3 +4,7 @@ class BadPrefixError(BaseException):
 
 class ModuleNotRegisteredError(BaseException):
     pass
+
+
+class BadCommandError(BaseException):
+    pass
