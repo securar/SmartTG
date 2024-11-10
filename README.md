@@ -4,4 +4,9 @@
 
 Make your userbots fast, simple and handy!
 
-## Documentation: [Click here](https://github.com/securar/SmartTG/blob/master/docs/docs.md)
+## Features
+* Simple ([example](https://there.would.be.link))
+* Asynchronous ([asyncio docs](https://docs.python.org/3/library/asyncio.html))
+* Provides pre-installed useful modules ([what modules?](https://there.would.be.link))
+
+### *Documentation: [Click here](https://github.com/securar/SmartTG/blob/master/docs/docs.md)*
