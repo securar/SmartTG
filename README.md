@@ -1,4 +1,6 @@
 *Keep it simple, stupid*
+# BETA VERSION
+
 # SmartTG
 **SmartTG** is a modern and fully asynchronous library for creating userbots, built on top of [telethon](https://github.com/LonamiWebs/Telethon)
 
